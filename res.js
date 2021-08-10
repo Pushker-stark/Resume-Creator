@@ -32,6 +32,7 @@ function addNewAQField()
 // generating resume  
 function generateCV()
 {
+    alert("Please fill all details and upload image file in order to submit!!!");
     let nameField=document.getElementById("nameField").value;
     let nameT1=document.getElementById("nameT1");
 
