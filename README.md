@@ -1,3 +1,2 @@
 # Resume-Creator
-
-http://pnr-resume-creator.herokuapp.com/
+https://pnr-resume-creator.surge.sh/
